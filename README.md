@@ -9,11 +9,10 @@ Hi there! I'm Kaan, a **Computer Science student** with a strong foundation in *
 ## 🚀 About Me  
 
 - 🎓 Studying **Computer Science BSc** in the Netherlands  
-- 💹 Passionate about **algorithmic trading** and **financial market prediction**, along with **software architechture**  
+- 💹 Passionate about **algorithmic trading** and **financial market prediction**, along with **software architecture**  
 - 🤖 Experienced in **machine learning**, **reinforcement learning**, and **intelligent UI design**  
 - 🏋️‍♂️ Into **combat sports (MMA & kickboxing)** and **strength training**  
-- 🏐 Plays **competitive volleyball**  
-- 🏎️ Loves **classic cars & motorsports**  
+- 🏐 Plays **competitive volleyball**   
 
 ---
 
