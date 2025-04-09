@@ -1,7 +1,5 @@
 # Smart. Handsome. Humble.  
 
-## 👋 Welcome to My GitHub Profile!  
-
 Hi there! I'm Kaan, a **Computer Science student** with a strong foundation in **machine learning, algorithmic trading, and intelligent systems**. My work revolves around **AI-driven solutions**, **optimization algorithms**, and **software development**, with a passion for high-performance applications and emerging technologies.  
 
 ---
