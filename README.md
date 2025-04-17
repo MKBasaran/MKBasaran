@@ -30,10 +30,10 @@ Hi there! I'm Kaan, a **Computer Science student** with a strong foundation in *
 
 ## 🏆 Achievements  
 
-- 🎹 **Graduated from the Royal Academy of Music in piano**—classically trained, but still thinks Dean Blunt is as good as it gets.
-- 🏅 **Placed 2nd in a Junior Achievement annual contest**—should’ve been 1st. 
-- 💡 **Built, broke, and rebuilt countless projects**—some failed, some worked, all were lessons.  
-- **Realized that joy isn’t something you search for—it's something you create.**  
+- 🎹 **Graduated from the Royal Academy of Music in piano**. Classically trained, but still thinks Dean Blunt is as good as it gets.
+- 🏅 **Placed 2nd in a Junior Achievement annual contest**, should’ve been 1st. 
+- 💡 **Built, broke, and rebuilt countless projects**. Some failed, some worked, all were lessons.  
+- **Realized that joy isn’t something you search for, it's something you create.**  
 
 ---
 
