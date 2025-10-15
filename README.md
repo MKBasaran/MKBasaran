@@ -1,6 +1,6 @@
 # Smart. Handsome. Humble.  
 
-Hi there! I'm Kaan, a **Computer Science student** with a strong foundation in **machine learning, algorithmic trading, and intelligent systems**. My work revolves around **AI-driven solutions**, **optimization algorithms**, and **scalable software development**, with a passion for high-performance applications and emerging technologies.  
+I'm Kaan, a **Computer Science student** with a strong foundation in **machine learning, algorithmic trading, and intelligent systems**. My work revolves around **AI-driven solutions**, **optimization algorithms**, and **scalable software development**, with a passion for high-performance applications and emerging technologies.  
 
 ---
 
@@ -22,9 +22,9 @@ Hi there! I'm Kaan, a **Computer Science student** with a strong foundation in *
 
 ## What I'm Currently Working On  
 
+- Released a mobile app called **Crate**, a social music platform. Try it out before I spoil more of it: (https://apps.apple.com/nl/app/crate/id6752948934?l=en-GB)
 - Using an **AI-powered trading algorithm** for real-time financial analysis, currently managing a portfolio for a number of clients  
 - Enhancing **data analysis pipelines** for research in AI-driven decision-making  
-- Exploring **solopreneurship opportunities** leveraging AI (chatgpt wrappers to fool investors, easiest way to get crazy funding)  
 
 ---
 
@@ -35,11 +35,3 @@ Hi there! I'm Kaan, a **Computer Science student** with a strong foundation in *
 - **Built, broke, and rebuilt countless projects**. Some failed, some worked, all were lessons.  
 - **Realized that joy isn’t something you search for, it's something you create.**  
 
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/MKBasaran)  
-
----
