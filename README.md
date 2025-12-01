@@ -23,8 +23,6 @@ I'm Kaan, a **Computer Science student** with a strong foundation in **machine l
 ## What I'm Currently Working On  
 
 - Released a mobile app called **Crate**, a social music platform. Try it out before I spoil more of it: (https://apps.apple.com/nl/app/crate/id6752948934?l=en-GB)
-- Using an **AI-powered trading algorithm** for real-time financial analysis, currently managing a portfolio for a number of clients  
-- Enhancing **data analysis pipelines** for research in AI-driven decision-making  
 
 ---
 
